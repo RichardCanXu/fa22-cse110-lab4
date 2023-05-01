@@ -18,3 +18,5 @@
 #E: false true is equal 1
 #F: true true is true
 #Q15: === compares values and data types == does type conversion
+#Q17: [2,4.6] it goes through the loop and doubels each array because it calls the doSomething on each value of the array
+#Q19: 1 4 3 2
